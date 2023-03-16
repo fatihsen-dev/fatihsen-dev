@@ -1,6 +1,8 @@
 ## 👋 Hi, I’m Fatih
 
-I live in Turkey and I'm a Front-end developer. I am currently developing myself in the field of Full-Stack, I love to learn and research. In my spare time I like to play games and exchange information with other developers.
+Hi, I'm Fatih. I am a curious front-end developer who continues to learn and research in order to become a
+full-stack developer. I enjoy learning new technologies, designing, and examining other people's designs and
+code.
 
 -  Learning: NextJs, VueJs, And backend
 -  Contact me: fatihydrm@outlook.com
