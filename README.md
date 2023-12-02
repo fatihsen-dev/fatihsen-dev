@@ -4,7 +4,7 @@ Hi, I'm Fatih. I am a curious front-end developer who continues to learn and res
 full-stack developer. I enjoy learning new technologies, designing, and examining other people's designs and
 code.
 
--  Learning: Golang, Docker, Redis, C#
+-  Learning: Golang, Docker, Redis, C#, Rust
 -  Contact me: fatihydrm@outlook.com
 
 ### Social
