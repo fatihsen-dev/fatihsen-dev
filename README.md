@@ -5,7 +5,7 @@ full-stack developer. I enjoy learning new technologies, designing, and examinin
 code.
 
 -  Learning: Golang, Docker, Redis, C#, Rust
--  Contact me: fatihydrm@outlook.com
+-  Contact me: dev.fatihsen@outlook.com
 
 ### Social
 <p align="left">
