@@ -1,8 +1,10 @@
 ## 👋 Hi, I’m Fatih
 
-Hi, I'm Fatih. I am a curious front-end developer who continues to learn and research in order to become a
-full-stack developer. I enjoy learning new technologies, designing, and examining other people's designs and
-code.
+As an experienced Backend Developer, my passion lies in exploring and building robust, scalable, and high-performance distributed systems. I delve deep into the intricacies of architecting efficient solutions, primarily leveraging Node.js (Nest.js, Express.js), Go, and Python, alongside practical experience with AWS, Docker, and various database technologies.
+
+I am particularly fascinated by Event-Driven Architectures and Test-Driven Development (TDD), constantly seeking to apply these principles to create highly maintainable and reliable software. My keen interest also extends to the challenges and opportunities within real-time applications, pushing the boundaries of what's possible.
+
+Beyond coding, I'm committed to continuous learning and sharing insights within the tech community. I enjoy dissecting complex system designs and exploring new technologies that drive innovation in backend development.
 
 -  Learning: Golang, Docker, Redis, C#, Rust
 -  Contact me: dev.fatihsen@outlook.com
