@@ -6,7 +6,7 @@ I am particularly fascinated by Event-Driven Architectures and Test-Driven Devel
 
 Beyond coding, I'm committed to continuous learning and sharing insights within the tech community. I enjoy dissecting complex system designs and exploring new technologies that drive innovation in backend development.
 
--  Learning: Golang, Docker, Redis, C#, Rust
+-  Learning: Golang, Rust, Kubernetes
 -  Contact me: dev.fatihsen@outlook.com
 
 ### Social
