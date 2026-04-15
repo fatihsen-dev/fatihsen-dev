@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Fatih
+## 👋 Hi, I'm Fatih
 
 As an experienced Backend Developer, my passion lies in exploring and building robust, scalable, and high-performance distributed systems. I delve deep into the intricacies of architecting efficient solutions, primarily leveraging Node.js (Nest.js, Express.js), Go, and Python, alongside practical experience with AWS, Docker, and various database technologies.
 
@@ -10,26 +10,9 @@ Beyond coding, I'm committed to continuous learning and sharing insights within 
 -  Contact me: dev.fatihsen@outlook.com
 
 ### Social
-<p align="left">
-  <a href="https://linkedin.com/in/fatihydrm/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="36" width="36" /></a>
-  <a href="https://codepen.io/fatihsen-dev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="36" width="36" /></a>
-  <a href="https://twitter.com/fatihsendev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="36" width="36" /></a>
-  <a href="https://instagram.com/fatihsen.dev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="36" width="36" /></a>
-</p>
+
+<table border="0" cellpadding="0" cellspacing="0"><tr><td><a href="https://linkedin.com/in/fatihydrm/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="36" width="36" /></a></td><td><a href="https://codepen.io/fatihsen-dev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="36" width="36" /></a></td><td><a href="https://twitter.com/fatihsendev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="36" width="36" /></a></td><td><a href="https://instagram.com/fatihsendev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="36" width="36" /></a></td></tr></table>
 
 ### Skills
 
-<p align="left">
-  <a href="" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></a>
-</p>
+<table border="0" cellpadding="0" cellspacing="0"><tr><td><a href="RUST_LINK"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" /></a></td><td><a href="GO_LINK"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" /></a></td><td><a href="REDIS_LINK"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" /></a></td><td><a href="NESTJS_LINK"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /></a></td><td><a href="POSTGRESQL_LINK"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></a></td><td><a href="MONGODB_LINK"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /></a></td><td><a href="RABBITMQ_LINK"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" /></a></td><td><a href="KAFKA_LINK"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" /></a></td><td><a href="DOCKER_LINK"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" /></a></td><td><a href="GRAFANA_LINK"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" /></a></td><td><a href="TYPESCRIPT_LINK"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a></td><td><a href="NEXTJS_LINK"><img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></a></td></tr></table>
